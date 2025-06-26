@@ -59,6 +59,11 @@
 
 ## How to Run the Project
 
+
+
+## Youtube Link
+- **Link**:https://youtu.be/_gh3E49wCTg?si=apAsnfTNCyIMBh2s 
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Vuyoneomokoatle/budgeter.git
